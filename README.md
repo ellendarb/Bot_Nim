@@ -25,8 +25,8 @@
 
 1. **Клонировать репозиторий и перейти в папку**  
    ```bash
-   git clone https://github.com/<ваш-login>/telegram-nim-bot.git
-   cd telegram-nim-bot
+   git clone https://github.com/ellendarb/Bot_Nim.git
+   cd Bot_Nim
 2. **(Опционально) Создать и активировать виртуальное окружение**
    ```bash
    python3 -m venv venv
@@ -39,4 +39,4 @@
   Оставить имеющийся или отредактировать в коде API_KEY, подставив вместо него свой токен
 5. **Запуск**
    ```bash
-   python bot.py
+   python main.py
