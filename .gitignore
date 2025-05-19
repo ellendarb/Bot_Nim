@@ -1,0 +1,13 @@
+# Python-bytecode и кэш
+__pycache__/
+*.py[cod]
+
+# виртуальное окружение
+venv/
+
+# секреты и env-файл
+.env
+
+# IDE/редакторы
+.vscode/
+.idea/
