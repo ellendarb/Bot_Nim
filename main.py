@@ -10,7 +10,7 @@ from telebot.types import (
 )
 from telebot.apihelper import ApiTelegramException
 
-API_KEY = **ПОДСТАВИТЬ СВОЙ КОД**
+API_KEY = **ПОДСТАВИТЬ СВОЙ ТОКЕН**
 nim_bot = telebot.TeleBot(API_KEY)
 
 game_sessions = {}
